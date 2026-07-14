@@ -18,7 +18,7 @@
 
 This repository contains the official PyTorch implementation for the paper:
 
-> Shengli Zhou, Minghang Zheng, Feng Zheng, and Yang Liu. 2026. P3: Toward Versatile Embodied Agents.
+> Shengli Zhou, Xiangchen Wang, Jinrui Zhang, Ruozai Tian, Rongtao Xu, Guanhua Chen, and Feng Zheng. 2026. P3: Toward Versatile Embodied Agents.
 
 ## Overview
 
